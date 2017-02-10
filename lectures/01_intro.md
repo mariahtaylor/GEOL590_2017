@@ -12,7 +12,7 @@ author: Drew Steen
      * Class scheduling
 
 2. Organize groups 
-    1. Have students fill out experience questionnaire and add up points (on a 0-2 scale) 
+    1. Have the	students fill out experience questionnaire and add up points (on a 0-2 scale) 
         2. Have students line up by experience from most to least
         3. Divide into thirds, I guess. Each group of 3 must contain 1 student from each third.
         4. Go sit with your group. 
